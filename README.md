@@ -95,10 +95,9 @@ Clone this repository to your desired folder:
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/recillah-khamala)
 
 👤 **Richard Chileya**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@RichardChileya](https://github.com/RichardChileya/)
+- Twitter: [@RichardChileya](https://twitter.com/RichardChileya/)
+- LinkedIn: [@richard-chileya](https://linkedin.com/in/richard-chileya-1076b4200//)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
